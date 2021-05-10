@@ -1,6 +1,5 @@
 import pygame
 from random import choice
-from pprint import pprint
 
 pygame.init()
 
